@@ -6,7 +6,7 @@
         "Civic Engagement": 8.9,
         "Health": 9.3,
         "Life Satisfaction": 7.5,
-        "Balance": 4.4,
+        "Life Balance": 4.4,
         "Safety": 7.4,
         "hasNull": false,
         "explanation":
@@ -20,7 +20,7 @@
         "Civic Engagement": 4.3,
         "Health": 7.8,
         "Life Satisfaction": 7.8,
-        "Balance": 6.0,
+        "Life Balance": 6.0,
         "Safety": 9.3,
         "hasNull": false,
         "explanation":"Austria performs well in many dimensions of well-being relative to other countries in the Better Life Index. Austria outperforms the average in  jobs, health, environmental quality, social connections, safety and life satisfaction. "
@@ -32,7 +32,7 @@
         "Civic Engagement": 6.8,
         "Health": 9.5,
         "Life Satisfaction": 7.1,
-        "Balance": 6.5,
+        "Life Balance": 6.5,
         "Safety": 8.3,
         "hasNull": false,
         "explanation":"Canada performs well in many dimensions of well-being relative to other countries in the Better Life Index. Canada outperforms the average in income, jobs, education, health, environmental quality, social connections and life satisfaction."
@@ -44,7 +44,7 @@
         "Civic Engagement": 6.8,
         "Health": 7.5,
         "Life Satisfaction": 8.8,
-        "Balance": 8.6,
+        "Life Balance": 8.6,
         "Safety": 9.2,
         "hasNull": false,
         "explanation":"Denmark performs well in many dimensions of well-being relative to most countries in the Better Life Index. Denmark outperforms the average in  jobs, education, health, environmental quality, social connections, civic engagement and life satisfaction."
@@ -56,7 +56,7 @@
         "Civic Engagement": 5.8,
         "Health": 7.7,
         "Life Satisfaction": 6.1,
-        "Balance": 8.1,
+        "Life Balance": 8.1,
         "Safety": 8.1,
         "hasNull": false,
         "explanation":"France performs well across a number  of well-being dimensions relative to other countries in the Better Life Index. France outperforms the average in work-life balance, safety, social connections and civic engagement."
@@ -68,7 +68,7 @@
         "Civic Engagement": 5.3,
         "Health": 7.1,
         "Life Satisfaction": 8.1,
-        "Balance": 8.0,
+        "Life Balance": 8.0,
         "Safety": 8.3,
         "hasNull": false,
         "explanation":"Germany performs well in many dimensions of well-being relative to other countries in the Better Life Index. Germany outperforms the average in  jobs, work-life balance, education, environmental quality, safety, civic engagement and life satisfaction. T"
@@ -80,7 +80,7 @@
         "Civic Engagement": 6.0,
         "Health": 8.3,
         "Life Satisfaction": 7.7,
-        "Balance": 4.0,
+        "Life Balance": 4.0,
         "Safety": 8.5,
         "hasNull": false,
         "explanation":""
@@ -92,7 +92,7 @@
         "Civic Engagement": 6.6,
         "Health": 8.3,
         "Life Satisfaction": 5.4,
-        "Balance": 9.4,
+        "Life Balance": 9.4,
         "Safety": 8.0,
         "hasNull": false,
         "explanation":""
@@ -104,7 +104,7 @@
         "Civic Engagement": 2.0,
         "Health": 5.3,
         "Life Satisfaction": 4.1,
-        "Balance": 3.4,
+        "Life Balance": 3.4,
         "Safety": 8.4,
         "hasNull": false,
         "explanation":"Japan performs well across a number  of well-being dimensions relative to other countries in the Better Life Index. Japan outperforms the average in  education,  safety and environmental quality. It underperforms average in income, social connections, civic engagement and life satisfaction."
@@ -116,7 +116,7 @@
         "Civic Engagement": 7.8,
         "Health": 4.8,
         "Life Satisfaction": 3.1,
-        "Balance": 3.8,
+        "Life Balance": 3.8,
         "Safety": 8.8,
         "hasNull": false,
         "explanation":"Korea performs well across a number of well-being dimensions relative to other countries in the Better Life Index. Korea outperforms the average in education, health and civic engagement. It underperforms average in  environmental quality, social connections and life satisfaction."
@@ -128,7 +128,7 @@
         "Civic Engagement": 7.0,
         "Health": 5.6,
         "Life Satisfaction": 3.6,
-        "Balance": 0.4,
+        "Life Balance": 0.4,
         "Safety": 0.2,
         "hasNull": false,
         "explanation":"Mexico has made tremendous progress over the last decades in terms of improving the quality of life of its citizens. Notwithstanding, Mexico performs poorly in many dimensions of well-being relative to other countries in the Better Life Index. It underperforms average in income, jobs, education, health, environmental quality, social connections, safety and life satisfaction. "
@@ -140,7 +140,7 @@
         "Civic Engagement": 7.4,
         "Health": 8.2,
         "Life Satisfaction": 8.7,
-        "Balance": 8.3,
+        "Life Balance": 8.3,
         "Safety": 8.9,
         "hasNull": false,
         "explanation":""
@@ -152,7 +152,7 @@
         "Civic Engagement": 5.0,
         "Health": 8.7,
         "Life Satisfaction": 5.4,
-        "Balance": 8.4,
+        "Life Balance": 8.4,
         "Safety": 8.7,
         "hasNull": false,
         "explanation":""
@@ -164,7 +164,7 @@
         "Civic Engagement": 3.2,
         "Health": 9.2,
         "Life Satisfaction": 8.7,
-        "Balance": 7.7,
+        "Life Balance": 7.7,
         "Safety": 9.3,
         "hasNull": false,
         "explanation":""
@@ -176,7 +176,7 @@
         "Civic Engagement": 7.1,
         "Health": 7.8,
         "Life Satisfaction": 6.4,
-        "Balance": 5.6,
+        "Life Balance": 5.6,
         "Safety": 8.6,
         "hasNull": false,
         "explanation":""
@@ -188,7 +188,7 @@
         "Civic Engagement": 7.0,
         "Health": 8.6,
         "Life Satisfaction": 7.2,
-        "Balance": 5.2,
+        "Life Balance": 5.2,
         "Safety": 7.5,
         "hasNull": false,
         "explanation":"The United States performs well in many dimensions of well-being relative to other countries in the Better Life Index. The United States outperforms the average in income, jobs, education, environmental quality, social connections and life satisfaction. "
@@ -200,7 +200,7 @@
         "Civic Engagement": 3.9,
         "Health": 3.1,
         "Life Satisfaction": 0.3,
-        "Balance": 3.6,
+        "Life Balance": 3.6,
         "Safety": 2.5,
         "hasNull": false,
         "explanation":"ince 1994 South Africa has made great progress in reducing absolute poverty by rolling out social grants for pensioners, the disabled and children. Access to education, housing, water, electricity and other services has been greatly broadened. As a result, well-being has increased substantially. Notwithstanding, South Africa performs poorly in many dimensions of well-being relative to other countries in the Better Life Index. It underperforms average in income, jobs, education, health, environmental quality, social connections, civic engagement, safety and life satisfaction. "
@@ -212,7 +212,7 @@
         "Civic Engagement": 5.3,
         "Health": 7.1,
         "Life Satisfaction": 5.8,
-        "Balance": 6.1,
+        "Life Balance": 6.1,
         "Safety": 7.5,
         "hasNull": false,
         "explanation":"The graph above shows Better Life Index from OECD 2022. All categories were rated out of 10 You can check the exact score if you mouse over the each point. the chart below shows the incole-better life index with the population. x-axis is the income and the y-axis is the overallscore of the betterlife index. the radius of the circle shows the population as well. put your mouse over the circle if you want more imformation"

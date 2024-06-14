@@ -176,7 +176,7 @@ const attributes = [
   "Civic Engagement",
   "Health",
   "Life Satisfaction",
-  "Balance",
+  ":Lie Balance",
   "Safety",
 ];
 
