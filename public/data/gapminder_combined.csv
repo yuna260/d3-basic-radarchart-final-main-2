@@ -1,0 +1,17 @@
+geo,country,year,happiness,income,population,region
+aut,Austria,2022,85.4,54997,8939617,europe
+aus,Australia,2022,76.3,51875,26177413,asia
+can,Canada,2022,83.6,49127,38454327,america
+dnk,Denmark,2022,83.8,59076,5882261,europe
+fra,France,2022,,74.9,64626628,europe
+deu,Germany,2022,79,53887,83369843,europe
+isr,Israel,2022,69,42911,9038309,asia
+ita,Italy,2022,68.1,42825,59037474,europe
+jpn,Japan,2022,61.1,42109,123951692,asia
+kor,Korea,2022,59.4,45341,51815810,asia
+mex,Mexico,2022,32.7,18791,127504125,america
+nld,Netherlands,2022,85.5,58246,17564014,europe
+esp,Spain,2022,71.3,39682,47558630,europe
+che,Switzerland,2022,86.9,71717,8740472,europe
+gbr,United Kingdom,2022,76.6,47167,67508936,europe
+usa,United States,2022,84.8,65340,338289857,america
