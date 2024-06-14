@@ -59,7 +59,7 @@
         "Balance": 8.1,
         "Safety": 8.1,
         "hasNull": false,
-        "explanation":""
+        "explanation":"France performs well across a number  of well-being dimensions relative to other countries in the Better Life Index. France outperforms the average in work-life balance, safety, social connections and civic engagement."
     },
     {
         "Country": "Germany",
@@ -71,7 +71,7 @@
         "Balance": 8.0,
         "Safety": 8.3,
         "hasNull": false,
-        "explanation":""
+        "explanation":"Germany performs well in many dimensions of well-being relative to other countries in the Better Life Index. Germany outperforms the average in  jobs, work-life balance, education, environmental quality, safety, civic engagement and life satisfaction. T"
     },
     {
         "Country": "Israel",
@@ -107,7 +107,7 @@
         "Balance": 3.4,
         "Safety": 8.4,
         "hasNull": false,
-        "explanation":""
+        "explanation":"Japan performs well across a number  of well-being dimensions relative to other countries in the Better Life Index. Japan outperforms the average in  education,  safety and environmental quality. It underperforms average in income, social connections, civic engagement and life satisfaction."
     },
     {
         "Country": "Korea",
@@ -119,7 +119,7 @@
         "Balance": 3.8,
         "Safety": 8.8,
         "hasNull": false,
-        "explanation":""
+        "explanation":"Korea performs well across a number of well-being dimensions relative to other countries in the Better Life Index. Korea outperforms the average in education, health and civic engagement. It underperforms average in  environmental quality, social connections and life satisfaction."
     },
     {
         "Country": "Mexico",
@@ -131,7 +131,7 @@
         "Balance": 0.4,
         "Safety": 0.2,
         "hasNull": false,
-        "explanation":""
+        "explanation":"Mexico has made tremendous progress over the last decades in terms of improving the quality of life of its citizens. Notwithstanding, Mexico performs poorly in many dimensions of well-being relative to other countries in the Better Life Index. It underperforms average in income, jobs, education, health, environmental quality, social connections, safety and life satisfaction. "
     },
     {
         "Country": "Netherlands",
@@ -191,7 +191,7 @@
         "Balance": 5.2,
         "Safety": 7.5,
         "hasNull": false,
-        "explanation":""
+        "explanation":"The United States performs well in many dimensions of well-being relative to other countries in the Better Life Index. The United States outperforms the average in income, jobs, education, environmental quality, social connections and life satisfaction. "
     },
     {
         "Country": "South Africa",
@@ -203,7 +203,7 @@
         "Balance": 3.6,
         "Safety": 2.5,
         "hasNull": false,
-        "explanation":""
+        "explanation":"ince 1994 South Africa has made great progress in reducing absolute poverty by rolling out social grants for pensioners, the disabled and children. Access to education, housing, water, electricity and other services has been greatly broadened. As a result, well-being has increased substantially. Notwithstanding, South Africa performs poorly in many dimensions of well-being relative to other countries in the Better Life Index. It underperforms average in income, jobs, education, health, environmental quality, social connections, civic engagement, safety and life satisfaction. "
     },
     {
         "Country": "Average",
@@ -215,6 +215,6 @@
         "Balance": 6.1,
         "Safety": 7.5,
         "hasNull": false,
-        "explanation":"The graph above shows Better Life Index from OECD 2022. all categories were rated out of 10 You can check the exact score if you mouse over the each point. the chart below shows the incole-better life index with the population. x-axis is the income and the y-axis is the overallscore of the betterlife index. the radius of the circle shows the population as well. put your mouse over the circle if you want more imformation"
+        "explanation":"The graph above shows Better Life Index from OECD 2022. All categories were rated out of 10 You can check the exact score if you mouse over the each point. the chart below shows the incole-better life index with the population. x-axis is the income and the y-axis is the overallscore of the betterlife index. the radius of the circle shows the population as well. put your mouse over the circle if you want more imformation"
     }
 ]
