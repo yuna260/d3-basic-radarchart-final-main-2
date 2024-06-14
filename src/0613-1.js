@@ -174,7 +174,7 @@ const attributes = [
   "Housing",
   "Jobs",
   "Civic Engagement",
-  "Health",
+  "Environment",
   "Life Satisfaction",
   "Life Balance",
   "Safety",
